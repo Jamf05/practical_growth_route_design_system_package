@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: jamf_design_system_package
+dependency_overrides:
+  jamf_design_system_package:
+    path: ..
